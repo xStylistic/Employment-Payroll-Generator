@@ -3,8 +3,8 @@ import java.util.*;
 
 /**
  * May 18th, 2021
- * ICS3U1 - Mr. Muttiah
- * @author Bonny Chen
+ * ICS3U1
+ * @author Bonny C
  * This is a that will take all your employee and work information and generates your payroll
  */
 
